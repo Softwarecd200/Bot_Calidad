@@ -1,0 +1,13 @@
+streamlit
+speechrecognition
+hubspot-api-client
+requests
+langchain-google-genai
+matplotlib
+fpdf
+Pillow
+colorama>=0.4.6
+pandas
+colorama
+python-dotenv  # Para manejo de variables de entorno
+pydub  # Para manejo de audio (puede ser necesario)
